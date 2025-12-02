@@ -1,0 +1,2 @@
+Write a {tone} explanation about the topic: {topic}.
+Make sure it is simple and clear.
